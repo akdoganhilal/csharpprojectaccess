@@ -1,0 +1,126 @@
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HİLAL VE DERSLER\HİLAL\Hilal C#\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Sepet.resources
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Sepet.resources
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+C:\Users\Administrator\Desktop\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Sepet.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Hesap.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.AcilisEkrani.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Giris.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasi guncel\HilalVeritabaniCalismasi\HILALVERITABANI\obj\Debug\HILALVERITABANI.Kayit.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.AcilisEkrani.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Giris.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Kayit.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\hilal yeni\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.AcilisEkrani.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Giris.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Kayit.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+D:\Program Dosyaları\Masaüstü\HilalVeritabaniCalismasiYeni\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.AcilisEkrani.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.Giris.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.Kayit.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+C:\Users\hilal\Desktop\HilalAkdogan_NTP_ODEV_19010208033\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe.config
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\bin\Debug\HILALVERITABANI.exe
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\bin\Debug\HILALVERITABANI.pdb
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.AcilisEkrani.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.AdminPaneli.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.Form1.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.Giris.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.Kayit.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.Properties.Resources.resources
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.GenerateResource.cache
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.exe
+C:\Users\hilal\Desktop\HilalAkdoganOS2C#\HILALVERITABANI\obj\Debug\HILALVERITABANI.pdb
